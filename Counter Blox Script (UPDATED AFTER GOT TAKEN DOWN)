@@ -1,7 +1,8 @@
-
-
 --[[ PROTECTED AWAY FROM SKIDS. make ya own skid!]] 
 
+
+
+if game PlaceId = 301549746 then
 --[[
 
 ███╗░░██╗░█████╗░  ░██████╗██╗░░██╗██╗██████╗░░██████╗
